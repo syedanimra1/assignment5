@@ -1,0 +1,55 @@
+
+body {
+    background-color: lightblue;
+  }
+
+
+h1 {                        
+    font-family: red;
+    font-weight: normal;
+    font-style: calc();
+    text-transform: lowercase;
+    text-decoration: outline;
+    text-align: center;
+    line-height: 200px;
+    font-size: 50px;
+    text-shadow: -3px 5px 0px rgb(220, 90, 300);
+}
+
+ p {
+    color: red;
+    text-align: center;
+  
+    font-size:  18px;
+    line-height: 28px;
+    word-spacing: 10px;
+    letter-spacing: 3px;
+    text-align: justify;
+    vertical-align: top;
+    text-indent: 50px;
+}
+
+.intro:first-letter {
+    font-size: 50px;
+    color: red;
+}
+
+.intro:second-line {
+    color: blue;
+}
+
+a:link {
+    color: purple;
+}
+
+a:hover {
+    color: green;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:active {
+    color: aqua;
+}
